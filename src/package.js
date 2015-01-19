@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'xolvio:md-blog',
+  name: 'gamemaker:md-blog',
   summary: 'A markdown powered blog with i18n and lots of cutomization options.',
-  version: '0.4.0',
-  git: 'https://github.com/xolvio/md-blog'
+  version: '0.4.1',
+  git: 'https://github.com/gamemaker/md-blog'
 });
 
 Npm.depends({});
